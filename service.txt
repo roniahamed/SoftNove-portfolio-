@@ -1,0 +1,210 @@
+Our Services
+1. Website Design & Development
+We design and build high-performance, visually compelling websites tailored to business goals.
+Custom Website Development
+
+
+Corporate & Business Websites
+
+
+Landing Pages & Marketing Websites
+
+
+Responsive & Mobile-First Design
+
+
+UI/UX Design
+
+
+Website Redesign & Performance Optimization
+
+
+
+2. Web Application Development
+End-to-end development of scalable and secure web applications.
+Custom Web Application Development
+
+
+Admin Dashboards & Internal Portals
+
+
+API-Driven Applications
+
+
+Scalable Backend Architecture
+
+
+Third-Party API Integrations
+
+
+
+3. Backend & API Engineering
+Robust backend systems designed for reliability, security, and growth.
+REST API Development
+
+
+Authentication & Authorization Systems
+
+
+Database Design & Optimization
+
+
+Payment Gateway Integration (Stripe, PayPal or others)
+
+
+Performance & Security Optimization
+
+
+
+4. Mobile Application Development
+Modern mobile applications built for performance and scalability.
+Android App Development
+
+
+iOS App Development
+
+
+Cross-Platform Apps (Flutter, React Native)
+
+
+Backend & API Integration
+
+
+App Maintenance & Version Updates
+
+
+
+5. E-Commerce Solutions
+Custom e-commerce platforms built for conversion and scalability.
+Custom E-Commerce Development
+
+
+Shopify & WooCommerce Solutions
+
+
+Product & Inventory Management
+
+
+Secure Payment & Checkout Integration
+
+
+Order & Customer Management Systems
+
+
+
+6. CMS & Content Management Platforms
+Flexible content solutions for easy management and growth.
+Custom CMS Development
+
+
+WordPress Development
+
+
+Blog & News Platforms
+
+
+
+7. AI & Automation Solutions
+Intelligent systems that automate workflows and enhance decision-making.
+AI-Powered Web Applications
+
+
+Chatbots & Virtual Assistants
+
+
+Business Process Automation
+
+
+Recommendation Engines
+
+
+Data Analytics & AI Integration
+
+
+Custom Machine Learning Solutions
+
+
+
+
+
+
+9. Website Maintenance & Support
+Ongoing support to keep your systems secure, updated, and optimized.
+Continuous Technical Support
+
+
+Bug Fixes & Enhancements
+
+
+Security Monitoring & Patching
+
+
+Feature Improvements
+
+
+
+10. Digital Growth & Optimization
+Technical optimizations focused on performance and growth.
+SEO-Friendly Development
+
+
+Website Speed Optimization
+
+
+Analytics & Conversion Tracking
+
+
+Technical SEO Improvements
+
+
+Performance & Security Audits
+
+
+
+11. Consulting & Technical Strategy
+Expert guidance to plan, build, and scale digital products.
+MVP Planning & Development Strategy
+
+
+Technology Stack Consulting
+
+
+Scalability & Security Assessments
+
+
+Long-Term Technical Roadmaps
+
+
+
+Add-On Services
+Enhance your project with additional support and integrations.
+Domain & Hosting Setup
+
+
+Business Email & SMTP Configuration
+
+
+Third-Party Tool Integrations
+
+
+ Cloud, DevOps & Infrastructure ( Optional ) 
+Reliable cloud infrastructure and automated deployment pipelines.
+Cloud Deployment (AWS, Google Cloud, Azure)
+
+
+CI/CD Pipeline Setup
+
+
+Server Configuration & Management
+
+
+Docker & Containerization
+
+
+Performance Monitoring & Scalability
+
+
+
+
+
+
